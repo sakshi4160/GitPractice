@@ -1,4 +1,5 @@
-def addition(a,b):
+##ADDITION
+def addition(a,b,c):
     print (a+b+c)
     return a+b+c
 
